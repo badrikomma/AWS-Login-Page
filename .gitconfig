@@ -1,0 +1,6 @@
+[safe]
+	directory = /home/ubuntu/flaskapp
+	directory = /home/ubuntu
+[user]
+	name = badrikomma
+	email = badrikomma00@gmail.com
